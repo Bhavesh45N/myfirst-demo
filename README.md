@@ -1,4 +1,4 @@
 # myfirst-demo
-This is my first git repostiory
+This Is My First Repository 
 <br>
-author -Bhavesh Nanote
+Author - Bhavesh Nanote
